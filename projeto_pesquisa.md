@@ -1,6 +1,6 @@
 # PROJETO DE PESQUISA
 
-**PROFESSOR:** Valdomir
+**PROFESSOR:** Valdomir Marques
 
 **EMAIL:** domirmarques@yahoo.com.br
 
@@ -9,9 +9,10 @@
 ### 1 JUSTIFICATIVA: 1 pág. e meia
 
 - Por que eu desejo fazer esse estudo?
-- O que já oi escrito sobre este tema?
+- O que já foi escrito sobre este tema?
 - Qual a relevância deste estudo para mim, para a comunidade acadêmica, para a área de conhecimento e para a comunidade em geral?
-- O que eu quero realmente sabe sobre o tema. (Finaliza fazendo uma questão sobre o tema.)
+- O que eu quero realmente sabe sobre o tema?
+- Finaliza fazendo uma questão sobre o tema.
 
 ### 2 OBJETIVOS GERAL:
 
@@ -45,7 +46,7 @@ Incluir citações.
 - (Análise) Elaboração de instrumentos para a coleta de dados:
 - [Qualificação do projeto: Apresentação do projeto para banca.]
 - (Desenvolvimento) Construção do trabalho: Todo o período.
-- (Análise) Construção do trabalho: Todo o período. `corrigir`
+- (Análise) Construção do trabalho: Todo o período. `FIXME`
 - Correção Gramatical: Final do curso.
 - Depósito para a defesa: Final do curso.
 - Defesa: Final do curso.
