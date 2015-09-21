@@ -25,7 +25,7 @@ Analisar a escalabilidade em bancos de dados não-relacionais.
 - Compreender a escalabilidade em bancos de dados não-relacionais.
 - Refletir sobre a escalabilidade em bancos de dados não-relacionais. 
 
-### 3 PROBLEMA DE ESTUDO
+### 3 PROBLEMA DE ESTUDO:
 
 Como funciona a escalabilidade em bancos de dados não-relacionais?
 
