@@ -71,3 +71,22 @@ ______
 - **INDIRETA:** Paráfrase. 
 - **DIRETA** *com até 3 linhas*: Dentro do texto, mesma formatação.
 - **DIRETA** *com mais de 3 linhas*: Recuo de 4cm. Justificada a direita. Espaço simples 1.0. Um número menor que a fonte do texto.
+
+### BANNER
+
+- Tamanho: 1,5m X 0,90m
+- Logo da faculdade + Nome da faculdade
+- Curso
+- Alinhado a direita
+	
+	- Autor
+	- Email do autor
+	- Professor orientador
+
+- Introdução: Objetivo geral
+- Justificativa: Resumo da justificativa
+- Objetivos: Geral + Especificos, separados por `;`
+- Fundamentação teórica: Resumo da fundamentação teórica
+- Metodologia: Resumo da metodologia
+- Resultados esperados: (Trabalho em andamento)
+- Referências: Somente as referências utilizadas na fundamentação teórica.
