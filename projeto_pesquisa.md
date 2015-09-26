@@ -1,6 +1,6 @@
 # PROJETO DE PESQUISA
 
-**PROFESSOR:** Valdomir Marques
+**PROFESSOR:** Valdomir Marques de Sousa
 
 **EMAIL:** domirmarques@yahoo.com.br
 
@@ -11,7 +11,7 @@
 - Por que eu desejo fazer esse estudo?
 - O que já foi escrito sobre este tema?
 - Qual a relevância deste estudo para mim, para a comunidade acadêmica, para a área de conhecimento e para a comunidade em geral?
-- O que eu quero realmente sabe sobre o tema?
+- O que eu quero realmente saber sobre o tema?
 - Finaliza fazendo uma questão sobre o tema.
 
 ### 2 OBJETIVOS GERAL:
